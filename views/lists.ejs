@@ -1,0 +1,15 @@
+<div>
+<% todos.forEach( (todo) => { %>
+    <p>
+        <span>
+            <%= todo.content %>
+        </span>
+        <span>
+            <a href="/edit/<%= todo._id %>" title="Update this todo item">Edit</a>
+        </span>
+        <span>
+            <a href = "/destroy/<%= todo._id %>" title = "Delete">Delete</a>
+        </span>
+    </p>
+<% }); %>
+</div>

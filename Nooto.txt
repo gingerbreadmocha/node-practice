@@ -1,0 +1,15 @@
+npm install --save module: installs node modules
+    saved to dependency in the json package
+npm init: helper that creates packaged jsons for u
+"$ npm install express@3.4.7 -g"
+    meaning it works everywhere (g)
+    hakase says: dont do that
+ORM: Objective-Relationship-Mapper (Active Record in Rails AKA the MODEL)
+database schema: like for each student, theres an ID/name but for nosql, you don't need that- add it however you want it
+    SQL: table based database; data in number of rows; predefined schema; good fit for complex queries
+    NOSQL: document based, key-pair based; collection of key-value pairs; unstructured schema; 
+In Mongoose, every item is like a JSON file.
+CLI: command line interface
+
+
+
