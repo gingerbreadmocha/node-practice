@@ -1,4 +1,4 @@
 # node-practice
 Node JS Practice
 
-https://scarf.sh/package/badge/toodles
+<a href="https://www.npmjs.com/package/@scarf/scarf">![](https://img.shields.io/npm/dw/@scarf/scarf)</a>
